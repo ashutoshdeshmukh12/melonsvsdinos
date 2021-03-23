@@ -1,0 +1,57 @@
+.header {
+    background-color: #1B9CFC;
+    text-align: center;
+    color: white;
+    padding: 2em 1em;
+    margin-bottom: 2em;
+}
+
+.header h1 {
+    font-size: 4em;
+    font-weight: bold;
+}
+
+.content {
+    background-color: white;
+    border: 1px solid #4ECFFF;
+    box-shadow: 0 2px 8px 0 rgba(0,0,0,0.2);
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+.content h2 {
+    font-weight: bold;
+    color: white;
+    padding: 1em;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.melonHeader {
+    background-image: url("/melon.png");
+}
+
+.dinoHeader {
+    background-image: url("/dino.png");
+}
+
+.form {
+    width: 100%;
+    font-size: 1.1em;
+    border-radius: 2px;
+    border: 1px solid #2a2a2a;
+    padding: 0.5em
+}
+
+.button {
+    border-radius: 2px;
+    width: 100%;
+    font-size: 1.1em;
+    padding: 0.4em;
+    border: 1px solid #2a2a2a;
+    background-color: #B33771;
+    color: white;
+    font-weight: bold;
+}
